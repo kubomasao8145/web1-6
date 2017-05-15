@@ -14,7 +14,14 @@ body{
 th{
      border: 1px solid lightcorl;
       background-color: #dc143c;
-    　text-align: center;
+     padding:6px;
+     width:100x;
+    text-align: center;
 }
-    
+td{
+     border:1px solid lightcoral;
+     padding:5px;
+     width:80px;
+     text-align:right;
+}
      
