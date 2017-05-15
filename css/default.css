@@ -8,11 +8,13 @@ body{
      
 #ingredient{
      border: 2px solid lightcoral;
-     border-collapse: collapse;
+     
 }
 
-th,td{
+th{
      border: 1px solid lightcorl;
+      background-color: #dc143c;
+    　text-align: center;
 }
     
      
