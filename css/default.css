@@ -15,13 +15,13 @@ th{
      border: 1px solid lightcorl;
       background-color: #dc143c;
      padding:6px;
-     width:250px;
+     width:200px;
     text-align: center;
 }
 td{
      border:1px solid lightcoral;
      padding:5px;
-     width:400px;
+     width:300px;
      text-align:right;
 }
 .btn
