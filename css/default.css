@@ -24,4 +24,9 @@ td{
      width:400px;
      text-align:right;
 }
+.btn
+{
+     -webkit-appearance:none;
+     margin:5px;
+}
      
